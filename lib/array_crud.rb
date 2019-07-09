@@ -3,8 +3,8 @@ def create_an_empty_array
 end
 
 def create_an_array
- colors ["yellow","blue","red","white"]
-end
+ colors=["yellow","blue","red","white"]
+endlearn --f-
 
 def add_element_to_end_of_array(array, element)
   colors << "black"
